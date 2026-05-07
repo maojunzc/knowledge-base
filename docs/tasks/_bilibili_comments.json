@@ -20,7 +20,7 @@
           "uname": "抓蛙师",
           "like": 6,
           "ctime": 1776940390,
-          "message": "📘 Knowledge Base 开源了\n  本地优先的知识库桌面应用。对标 Obsidian，更轻。\n   数据纯本地（SQLite + Markdown，不上云）\n  - 原生 FTS5 毫秒搜索\n  - 内存 ~50MB（Tauri，不是 Electron）\n  - 双向链接 / 知识图谱 / 本地 RAG 问答\n  - 永久免费\n  支持 Windows / macOS，Linux 计划中。\n  协议：AGPL-3.0 双许可\n  - 个人使用 / 开源项目二次开发 → 免费\n  - 闭源商用 / SaaS 部署 → 需商业授权\n  官网：https://kb.ruoyi.plus\n  GitHub：https://github.com/bkywksj/knowledge-base\n\n  欢迎 Star，需要的朋友直接装一下试试。"
+          "message": "📘 Knowledge Base 开源了\n  本地优先的知识库桌面应用。对标 Obsidian，更轻。\n   数据纯本地（SQLite + Markdown，不上云）\n  - 原生 FTS5 毫秒搜索\n  - 内存 ~50MB（Tauri，不是 Electron）\n  - 双向链接 / 知识图谱 / 本地 RAG 问答\n  - 永久免费\n  支持 Windows / macOS，Linux 计划中。\n  协议：AGPL-3.0 双许可\n  - 个人使用 / 开源项目二次开发 → 免费\n  - 闭源商用 / SaaS 部署 → 需商业授权\n  官网：\n  GitHub：\n\n  欢迎 Star，需要的朋友直接装一下试试。"
         },
         {
           "rpid": 300022094048,
@@ -743,7 +743,7 @@
       "ctime": 1776850472,
       "is_top": false,
       "rcount": 3,
-      "message": "官网/下载：https://kb.ruoyi.plus/",
+      "message": "官网/下载：",
       "subreplies": [
         {
           "rpid": 297058448369,

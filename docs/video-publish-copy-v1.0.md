@@ -60,8 +60,8 @@
 08:10 主题切换
 08:30 收尾 · 下载地址
 
-💾 下载地址：https://kb.ruoyi.plus
-📦 GitHub：https://github.com/bkywksj/knowledge-base
+💾 下载地址：
+📦 GitHub：
 🐛 有想加的功能评论区告诉我！
 
 完全免费，永不收费。求三连 + 关注，后面还会更新新功能视频～
@@ -89,7 +89,7 @@
 Markdown + 双链 + 知识图谱 + AI + WebDAV 多端同步
 Windows / Mac 全平台 · 完全免费
 
-下载地址：kb.ruoyi.plus
+下载地址：
 评论区领取！
 
 #独立开发者 #软件推荐 #效率工具 #笔记软件 #Obsidian平替 #Notion替代 #本地笔记 #开源软件 #知识管理 #程序员
@@ -215,7 +215,7 @@ Markdown 编辑 / 双向链接 / 知识图谱 / 全文搜索 / AI 问答 / WebDA
 数据只在你的电脑上，不走任何第三方云服务。
 Windows + macOS 全平台支持，完全免费。
 
-下载：kb.ruoyi.plus
+下载：
 ```
 
 ### 话题
@@ -268,8 +268,8 @@ All data stays on your computer. No cloud. No subscription. Forever.
 08:30 Wrap-up · Download
 
 🔗 Links
-- Download: https://kb.ruoyi.plus
-- GitHub: https://github.com/bkywksj/knowledge-base
+- Download:
+- GitHub:
 - My other projects: ...
 
 #Obsidian #Notion #KnowledgeManagement #Tauri #Rust #OpenSource #LocalFirst #PKM #ZettelKasten
@@ -304,8 +304,8 @@ Obsidian 插件化但同步付费 + 全家桶体验分裂；
 这条视频是 v1.0 发布纪念，8 分钟录屏过完所有功能。
 相关文章稍后我也会同步到知乎专栏。
 
-下载：https://kb.ruoyi.plus
-GitHub：https://github.com/bkywksj/knowledge-base
+下载：
+GitHub：
 ```
 
 ---

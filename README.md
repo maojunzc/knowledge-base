@@ -63,7 +63,7 @@ pnpm tauri build
 | 公众号 | `maojunzc` |
 | 微信 | `maojunzcc` |
 | QQ | `2316562571` |
-| 应用文档站点 | <https://kb.ruoyi.plus/> |
+| 应用文档站点 | 
 
 ## 添加微信好友
 
