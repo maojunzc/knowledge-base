@@ -43,13 +43,9 @@ pnpm tauri build
 - **后端**: Rust
 - **数据库**: SQLite + FTS5
 
-## 贡献
+## 联系方式
 
-欢迎贡献代码、报告 Bug、提建议！
-
-- 🐛 [报告 Bug](../../issues/new?template=bug_report.md)
-- ✨ [功能建议](../../issues/new?template=feature_request.md)
-- 🔨 [提交 Pull Request](../../compare)
+<img src="public/VX.jpg" alt="微信联系" width="200" />
 
 ## 许可证
 
