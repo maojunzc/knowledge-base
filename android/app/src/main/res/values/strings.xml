@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KnowledgeBase</string>
+    <string name="title_activity_main">KnowledgeBase</string>
+    <string name="package_name">com.knowledgebase.app</string>
+    <string name="custom_url_scheme">com.knowledgebase.app</string>
+</resources>
