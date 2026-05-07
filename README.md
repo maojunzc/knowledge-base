@@ -70,7 +70,7 @@ pnpm tauri build
 扫码下方二维码添加微信好友，期待与您交流！
 
 <p align="center">
-  <img src="public/donate-qr.png" alt="微信二维码" width="240" />
+  <img src="VX.jpg" alt="微信二维码" width="240" />
 </p>
 
 您还可以通过以下方式支持项目：
